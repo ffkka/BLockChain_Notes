@@ -3,14 +3,15 @@
 
 # 1. 新手入门
 - 北大肖臻老师的视频。B站可以直接搜到，讲的很好。主要分为两部分，一部分是比特币，一部分是以太坊的内容
+- [课程笔记](https://github.com/gk0d/Demo6/blob/main/Books/%E5%8C%97%E5%A4%A7%E8%82%96%E8%87%BB%E7%AC%94%E8%AE%B0%E7%AC%94%E8%AE%B0.docx)
 
 ## 书籍
-* [易懂的比特币工作机理详解]
-* [精通比特币]
-* [精通比特币第二版]
+* [易懂的比特币工作机理详解](https://github.com/gk0d/Demo6/blob/main/Books/%E6%98%93%E6%87%82%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81%E5%B7%A5%E4%BD%9C%E6%9C%BA%E7%90%86%E8%AF%A6%E8%A7%A3.pdf)
+* [精通比特币](https://github.com/gk0d/Demo6/blob/main/Books/master_bitcoins.pdf)
+* [区块链技术指南pdf](https://github.com/gk0d/Demo6/blob/main/Books/blockchain_guide.pdf)
 
 ## 官方文档
-* [比特币白皮书：一种点对点的电子现金系统]
+* [比特币白皮书：一种点对点的电子现金系统](https://github.com/gk0d/Demo6/blob/main/Books/%E6%AF%94%E7%89%B9%E5%B8%81%E7%99%BD%E7%9A%AE%E4%B9%A6-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 ------
 
@@ -19,9 +20,8 @@
 >不要被各种数学问题所迷惑，如拜占庭问题，双花问题等。我的建议是一开始先抛开这些问题，对区块链的原理有一个基本的全局的了解，然后再回过头来思考这些问题。
 
 ## 官方文档
-* [白皮书]：概要性地介绍了以太坊
-* [黄皮书]：通过大量的定义和公式详细地描述了以太坊的技术实现。
-
+* [白皮书](https://ethereum.org/zh/whitepaper/)：概要性地介绍了以太坊
+* [黄皮书](https://github.com/gk0d/Demo6/blob/main/Books/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%BB%84%E7%9A%AE%E4%B9%A6%E4%B8%AD%E6%96%87%E7%89%88.pdf)：通过大量的定义和公式详细地描述了以太坊的技术实现。
 
 
 

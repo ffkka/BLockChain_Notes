@@ -37,3 +37,25 @@ Solidity 是一门面向合约的、为实现智能合约而创建的`高级编�
 * [Solidity 中文文档](https://learnblockchain.cn/docs/solidity/):Solidity语言非常详细的文档
 * [cryptozombies](https://cryptozombies.io/):第三方的在线智能合约学习环境，目标是教会大家实现 DApp 游戏。这个网站的特点是自作非常精良，各种辅助学习材料丰富，并且是对 Solidity 小白友好的
 
+
+# 4.优质社区
+- [以太坊社区网络](https://www.ethereum.cn/)，他们的文章整理的不错，[文档](https://www.ethereum.cn/develop/)也很好。
+- [以太坊基金会博客](https://ethereum.org/en/)，可以得到很多前沿信息。
+- [登链社区](https://learnblockchain.cn/)，许多翻译的文章质量很高，并且有一些文档翻译。
+- [以太坊知识库](https://learnblockchain.cn/eth/):虽然停更了，但之前的一些文章写的很好。
+
+
+# 5.区块链安全
+- [慢雾科技的安全技术探究](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4ODQ3NTM2OA==&action=getalbum&album_id=1378653641065857025&scene=173&from_msgid=2247494336&from_itemidx=1&count=3&nolastread=1#wechat_redirect): 里面会分享漏洞分析的报告。
+- [合约漏洞赏金平台 immunefi](https://immunefi.com/)，在上面提交漏洞报告，不仅可以得到丰厚的回报，也会收获行业声誉.
+- [EIP-1470 提出的漏洞分类](https://swcregistry.io/)
+- [CTF 竞赛中合约安全方面的题目](https://github.com/blockthreat/blocksec-ctfs)
+
+## 安全审计
+- [Mythril](https://github.com/ConsenSys/mythril) 是 EVM 字节码的安全分析工具。它使用符号执行、SMT 解决和污点分析来检测各种安全漏洞
+- [Slither](https://github.com/crytic/slither) 是一个用 Python 3 编写的 Solidity 静态分析框架
+- [Manticore](https://github.com/trailofbits/manticore) 是用于分析智能合约和二进制文件的符号执行工具
+- [Echidna](https://github.com/crytic/echidna) 是一个 Haskell 程序，旨在对以太坊智能合约进行模糊测试/基于属性的测试。
+
+
+
